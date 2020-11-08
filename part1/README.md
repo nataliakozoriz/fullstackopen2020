@@ -6,13 +6,13 @@ Each of the following folders contain the final solutions to their respective ex
 
 courseinfo
 
-    Exercises 1.1 - 1.2 — Description
-    Exercises 1.3 - 1.5 — Description
+    Exercises 1.1 - 1.2 
+    Exercises 1.3 - 1.5 
 
 unicafe
 
-    Exercises 1.6 - 1.11 — Description
+    Exercises 1.6 - 1.11 
 
 anecdotes
 
-    Exercises 1.12 - 1.14 — Description
+    Exercises 1.12 - 1.14 
